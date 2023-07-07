@@ -1,0 +1,13 @@
+name = "Packwiz Test"
+author = "Hri7566"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ef44e8f9dbd3a807a40e49df17a7440e35fa39342667ad64f8d005b4fe63400"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.18.2"
