@@ -9,3 +9,13 @@ metafile = true
 file = "mods/adorn.pw.toml"
 hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
 metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+metafile = true
